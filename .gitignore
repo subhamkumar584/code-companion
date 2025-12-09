@@ -15,8 +15,8 @@ __pycache__/
 venv/
 env/
 ENV/
-.env/
-backend/env
+.env  # ignores backend/.env
+
 # IDEs / Editors
 .vscode/
 .idea/
